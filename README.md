@@ -7,4 +7,4 @@ You can download the PCB from PCBWAY: https://www.pcbway.com/project/shareprojec
 
 Currently works for 4164 and 41256 DRAM Modules
 
-This PCB is not tested yet.
+This PCB is tested and works okay!
